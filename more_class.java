@@ -3,14 +3,14 @@ class Computer
 
     int num =5;
 
-    public void playMusic ()
+    public void playMusic () // a method
     {
 
     //System.out.println("Playing music");
     }
 
 
-    public String get_a_pen(int cost)
+    public String get_a_pen(int cost) // another method, functions are called "method" in class.
     {
 
     if(cost >= 10)
