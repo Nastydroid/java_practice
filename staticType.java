@@ -1,7 +1,7 @@
 //understanding Static Type
 
 class Mobile {
-   static String name; //the static variables means that the  value of the variable will be shared by all the object i.e a chnage to one eqauls a change to all
+   static String name; //the static variables means that the  value of the variable will be shared by all the object i.e a change to one eqauls a change to all
     String brand;  //these are instance variables
     int price;
 

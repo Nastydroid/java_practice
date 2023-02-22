@@ -1,6 +1,6 @@
 class Student
 {
-    int rollno;
+    int rollno; //instance variable
     String name;
     int marks;
 }
