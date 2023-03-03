@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch more_interface",
+            "request": "launch",
+            "mainClass": "more_interface",
+            "projectName": "java_practice_224bb4b7"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"

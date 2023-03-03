@@ -1,4 +1,5 @@
-class AdvCalc extends Calc
+package tools;
+class AdvCalc extends Calc //this will inherit from the parent class Calc
 {
     public int multi(int n1, int n2)
     {
